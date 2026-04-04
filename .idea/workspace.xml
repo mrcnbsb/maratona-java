@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
-      <workItem from="1775332205147" duration="2886000" />
+      <workItem from="1775332205147" duration="3560000" />
     </task>
     <servers />
   </component>
