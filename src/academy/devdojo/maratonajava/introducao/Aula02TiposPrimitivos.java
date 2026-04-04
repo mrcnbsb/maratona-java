@@ -2,6 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
+        // tipos primitivos
         // int, double, float, char, byte, short, long, boolean
         byte idadeByte = 46; //1 byte = 8 bits
         short idadeShort = 46; //2 bytes
@@ -16,7 +17,12 @@ public class Aula02TiposPrimitivos {
         boolean falso = false; // 1 bit
         char caractere = '\u0041'; // 2 bytes // unicode ou asc
 
+        // tipo referência
+        String nome = "É um graaaaande texto";
+
         System.out.println("A idade é " + idade + " anos");
-        System.out.println(idade);
+        System.out.println(falso);
+        System.out.println("char " + caractere);
+        System.out.println("Oi, meu nome é " + nome);
     }
 }
