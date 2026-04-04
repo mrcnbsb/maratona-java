@@ -17,5 +17,20 @@ public class Aula04Operadores {
         double resultado = num1 / num2;
         System.out.println(resultado);
 
+        // % operador resto
+        int resto = 20 % 3;
+        System.out.println(resto);
+
+        // operadores lógicos
+        // < <= > >= == !=
+        boolean isDezMaiorQueVinte = 10 > 20;
+        System.out.println("isDezMaiorQueVinte: " + isDezMaiorQueVinte);
+        boolean isDezMenorQueVinte = 10 < 20;
+        System.out.println("isDezMenorQueVinte: " + isDezMenorQueVinte);
+        boolean isDezIgualVinte = 10 == 20;
+        System.out.println("isDezIgualVinte: " + isDezIgualVinte);
+        boolean isDezDiferenteVinte = 10 != 20;
+        System.out.println("isDezDiferenteVinte: " + isDezDiferenteVinte);
+
     }
 }
