@@ -46,5 +46,41 @@ public class Aula04Operadores {
         float valorPS5 = 5000F;
         boolean isPS5Compravel = valorTotalContaCorrente > valorPS5 || valorTotalContaPoupanca > valorPS5;
         System.out.println("isPS5Compravel: " + isPS5Compravel);
+
+        // operadores de atribuição
+        // = += -= *= /= %=
+        double bonus = 1800;
+        bonus = bonus + 1000;
+        System.out.println("bonus: " + bonus);
+        bonus += 1000;
+        System.out.println("bonus: " + bonus);
+        bonus -= 1000;
+        System.out.println("bonus: " + bonus);
+        bonus *= 3;
+        System.out.println("bonus: " + bonus);
+        bonus /= 2;
+        System.out.println("bonus: " + bonus);
+        bonus %= 9;
+        System.out.println("bonus: " + bonus);
+
+        // contador
+        int contador = 0;
+        System.out.println("contador: " + contador);
+        contador += 1; // contador = contador + 1;
+        System.out.println("contador: " + contador);
+        contador++; // contador = contador + 1;
+        System.out.println("contador: " + contador);
+        contador--;
+        System.out.println("contador: " + contador);
+        ++contador;
+        System.out.println("contador: " + contador);
+        --contador;
+        System.out.println("contador: " + contador); // exibe o valor da variável
+
+        System.out.println("contador: " + contador++); // exibe o valor primeiro e incrementa depois
+        System.out.println("contador: " + contador);
+        System.out.println("contador: " + ++contador); // incrementa primeiro e exibe o valor da variável incrementada depois
+
+
     }
 }
