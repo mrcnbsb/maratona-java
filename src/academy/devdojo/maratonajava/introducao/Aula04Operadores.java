@@ -32,5 +32,19 @@ public class Aula04Operadores {
         boolean isDezDiferenteVinte = 10 != 20;
         System.out.println("isDezDiferenteVinte: " + isDezDiferenteVinte);
 
+        // operadores lógicos
+        // &&(and) ||(or) !(not)
+        int idade = 35;
+        float salario = 3500F;
+        boolean isDentroDaLeiMaiorQueTrinta = idade > 30 && salario >= 4612;
+        System.out.println("isDentroDaLeiMaiorQueTrinta: " + isDentroDaLeiMaiorQueTrinta);
+        boolean isDentroDaLeiMenorQueTrinta = idade < 30 && salario >= 3381;
+        System.out.println("isDentroDaLeiMenorQueTrinta: " + isDentroDaLeiMenorQueTrinta);
+
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorPS5 = 5000F;
+        boolean isPS5Compravel = valorTotalContaCorrente > valorPS5 || valorTotalContaPoupanca > valorPS5;
+        System.out.println("isPS5Compravel: " + isPS5Compravel);
     }
 }
