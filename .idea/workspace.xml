@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
+    "Application.Aula04arrays01.executor": "Run",
     "Application.Aula05EstruturasCondicionais.executor": "Run",
     "Application.Aula05EstruturasCondicionais02.executor": "Run",
     "Application.Aula05EstruturasCondicionais03.executor": "Run",
@@ -53,6 +54,8 @@
     "Application.Aula06EstruturasDeRepeticao02.executor": "Run",
     "Application.Aula06EstruturasDeRepeticao03.executor": "Run",
     "Application.Aula06EstruturasDeRepeticao04.executor": "Run",
+    "Application.Aula06EstruturasDeRepeticao05.executor": "Run",
+    "Application.Aula07arrays01.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -111,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
-      <workItem from="1775332205147" duration="14562000" />
+      <workItem from="1775332205147" duration="15191000" />
     </task>
     <servers />
   </component>
