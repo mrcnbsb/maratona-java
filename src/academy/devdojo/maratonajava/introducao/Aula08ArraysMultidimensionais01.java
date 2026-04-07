@@ -17,9 +17,15 @@ public class Aula08ArraysMultidimensionais01 {
         dias[2][1] = 30;
         dias[2][2] = 31;
 
-        for(int i = 0; i < 3; i++){
-            for(int j = 0; j < 3; j++){
-                System.out.println(dias[i][j]);
+//        for(int i = 0; i < 3; i++){
+//            for(int j = 0; j < 3; j++){
+//                System.out.println(dias[i][j]);
+//            }
+//        }
+
+        for(int[] arrBase : dias){
+            for(int num : arrBase){
+                System.out.println(num);
             }
         }
 
