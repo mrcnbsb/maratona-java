@@ -20,5 +20,8 @@ public class EstudanteTest {
         impressora.imprimir(estudante01);
         impressora.imprimir(estudante02);
 
+        System.out.println("##########");
+        impressora.imprimir(estudante01);
+        impressora.imprimir(estudante02);
     }
 }
