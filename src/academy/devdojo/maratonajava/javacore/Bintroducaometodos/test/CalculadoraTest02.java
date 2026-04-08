@@ -2,13 +2,10 @@ package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
 import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
 
-public class CalculadoraTest01 {
+public class CalculadoraTest02 {
     public static void main(String[] args) {
 
         Calculadora calculadora = new Calculadora();
-        calculadora.somarDoisNumeros();
-        System.out.println("Finalizando CalculadoraTest01");
-        calculadora.subtrairDoisNumeros();
-        calculadora.multiplicarDoisNumeros(10, 5);
+        calculadora.multiplicarDoisNumeros(10, 20);
     }
 }
