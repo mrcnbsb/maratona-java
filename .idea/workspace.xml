@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +66,7 @@
     "Application.Aula08ArraysMultidimensionais02.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
     "Application.CalculadoraTest02.executor": "Run",
+    "Application.CalculadoraTest03.executor": "Run",
     "Application.CarroTest01.executor": "Run",
     "Application.CarroTeste01.executor": "Run",
     "Application.EstudanteTeste.executor": "Run",
@@ -130,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
-      <workItem from="1775332205147" duration="23571000" />
+      <workItem from="1775332205147" duration="24878000" />
     </task>
     <servers />
   </component>
