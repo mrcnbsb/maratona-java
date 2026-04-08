@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/teste/ProfessorTeste01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/teste/ProfessorTeste01.java" afterDir="false" />
-    </list>
+    <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +58,7 @@
     "Application.Aula07arrays03.executor": "Run",
     "Application.Aula08ArraysMultidimensionais01.executor": "Run",
     "Application.Aula08ArraysMultidimensionais02.executor": "Run",
+    "Application.CarroTeste01.executor": "Run",
     "Application.EstudanteTeste.executor": "Run",
     "Application.EstudanteTeste01.executor": "Run",
     "Application.EstudanteTeste02.executor": "Run",
@@ -127,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
-      <workItem from="1775332205147" duration="21121000" />
+      <workItem from="1775332205147" duration="21541000" />
     </task>
     <servers />
   </component>

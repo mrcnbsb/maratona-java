@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.teste;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
 import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
