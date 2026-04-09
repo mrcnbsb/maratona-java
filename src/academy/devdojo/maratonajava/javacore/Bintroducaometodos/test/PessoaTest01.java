@@ -7,6 +7,7 @@ public class PessoaTest01 {
         Pessoa pessoa = new Pessoa();
         pessoa.setNome("Jiraya");
         pessoa.setIdade(-1);
-        pessoa.imprime();
+//        pessoa.imprime();
+        System.out.println(pessoa.getNome());
     }
 }
