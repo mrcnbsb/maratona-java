@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +79,7 @@
     "Application.EstudanteTeste02.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
     "Application.JogadorTest01.executor": "Run",
+    "Application.JogadorTest02.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.PessoaTeste.executor": "Run",
@@ -145,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
-      <workItem from="1775332205147" duration="41032000" />
+      <workItem from="1775332205147" duration="41671000" />
     </task>
     <servers />
   </component>
