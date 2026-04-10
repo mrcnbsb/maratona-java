@@ -13,5 +13,6 @@ public class HerancaTest01 {
         System.out.println("----------------");
         Funcionario funcionario = new Funcionario("Marcone", "111.111-111-11", endereco, 18000.0);
         funcionario.imprime();
+        funcionario.relatorioPagamento();
     }
 }
