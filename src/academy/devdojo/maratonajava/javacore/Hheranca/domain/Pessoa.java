@@ -14,8 +14,7 @@ public class Pessoa {
     public void imprime(){
         System.out.println(this.nome);
         System.out.println(this.cpf);
-        System.out.println(this.endereco.getRua());
-        System.out.println(this.endereco.getCep());
+        System.out.println(this.endereco.getRua() + ", Cep: " +  this.endereco.getCep());
     }
 
     public String getNome() {

@@ -10,6 +10,7 @@ public class HerancaTest01 {
         Pessoa pessoa = new Pessoa("Toyohisa Shimazu", "12345678989", endereco);
         pessoa.imprime();
 
+        System.out.println("----------------");
         Funcionario funcionario = new Funcionario("Marcone", "111.111-111-11", endereco, 18000.0);
         funcionario.imprime();
     }
