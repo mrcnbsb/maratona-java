@@ -7,7 +7,7 @@ public class Anime {
      * bloco de inicialização de instância
      * executado todas as vezes que o objeto é criado
      * executado antes do construtor
-     * 0- Bloco de inicialização é executado quando a JVM carregar a classe
+     * 0- Bloco de inicialização estático é executado quando a JVM carregar a classe
      * 1- Alocado espaço em memória pro objeto
      * 2- Cada atributo de classe é criado e inicializado com valores default ou o que for passdo
      * 3- Bloco de inicialização é executado

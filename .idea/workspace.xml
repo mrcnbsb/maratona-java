@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="" />
+    <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/domain/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/domain/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/domain/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Hheranca/domain/Pessoa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +80,7 @@
     "Application.EstudanteTeste02.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
     "Application.HerancaTest01.executor": "Run",
+    "Application.HerancaTest02.executor": "Run",
     "Application.JogadorTest01.executor": "Run",
     "Application.JogadorTest02.executor": "Run",
     "Application.JogadorTest03.executor": "Run",
@@ -88,6 +94,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -108,11 +115,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Hheranca.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Gassociacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
       <recent name="academy.devdojo.maratonajava.javacore.Bintroducaometodos.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Aintroducaoclasses.teste" />
-      <recent name="academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio" />
     </key>
   </component>
   <component name="RunManager">
@@ -151,6 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
       <workItem from="1775332205147" duration="50630000" />
+      <workItem from="1775942819623" duration="662000" />
     </task>
     <servers />
   </component>
