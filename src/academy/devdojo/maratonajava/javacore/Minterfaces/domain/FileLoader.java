@@ -13,6 +13,7 @@ public class FileLoader implements DataLoader, DataRemover {
 
     @Override
     public void checkPermission() {
-        System.out.println("Checking Permission Data from File");
+        System.out.println("Checking Permission Data from File" +
+                "");
     }
 }
