@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/domain/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/domain/Carro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -70,6 +70,7 @@
     "Application.CalculadoraTest05.executor": "Run",
     "Application.CarroTest01.executor": "Run",
     "Application.CarroTeste01.executor": "Run",
+    "Application.ClienteTest01.executor": "Run",
     "Application.EscolaTest01.executor": "Run",
     "Application.EstudanteTest.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
@@ -156,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775332202883</updated>
       <workItem from="1775332205147" duration="50630000" />
-      <workItem from="1775942819623" duration="3245000" />
+      <workItem from="1775942819623" duration="4215000" />
     </task>
     <servers />
   </component>
