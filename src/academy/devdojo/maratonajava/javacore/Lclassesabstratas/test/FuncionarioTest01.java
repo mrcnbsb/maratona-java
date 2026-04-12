@@ -9,8 +9,12 @@ public class FuncionarioTest01 {
 
         Gerente gerente = new Gerente("Nami", 5000);
         System.out.println(gerente);
+        gerente.imprime();
+
+        System.out.println("-----------------------------");
 
         Desenvolvedor desenvolvedor = new Desenvolvedor("Touya", 12000);
         System.out.println(desenvolvedor);
+        desenvolvedor.imprime();
     }
 }
