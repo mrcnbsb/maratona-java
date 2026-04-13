@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/DataLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/DatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/DatabaseLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/FileLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/domain/FileLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,6 +90,7 @@
     "Application.OlaDevDojo.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.PessoaTeste.executor": "Run",
+    "Application.ProdutoTest01.executor": "Run",
     "Application.ProfessorTeste01.executor": "Run",
     "Application.SeminarioTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
