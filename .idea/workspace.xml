@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/service/CalculadoraImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Npolimorfismo/service/CalculadoraImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,9 @@
     "Application.ProdutoTest02.executor": "Run",
     "Application.ProdutoTest03.executor": "Run",
     "Application.ProfessorTeste01.executor": "Run",
+    "Application.RepositorioTest.executor": "Run",
     "Application.SeminarioTest01.executor": "Run",
+    "Application.StackOverflowTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -119,11 +121,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Hheranca.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Gassociacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
-      <recent name="academy.devdojo.maratonajava.javacore.Bintroducaometodos.test" />
     </key>
   </component>
   <component name="RunManager">
