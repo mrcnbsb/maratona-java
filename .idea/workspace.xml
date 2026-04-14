@@ -97,6 +97,7 @@
     "Application.ProfessorTeste01.executor": "Run",
     "Application.RepositorioTest.executor": "Run",
     "Application.RutimeExceptionTest01.executor": "Run",
+    "Application.RutimeExceptionTest02.executor": "Run",
     "Application.SeminarioTest01.executor": "Run",
     "Application.StackOverflowTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -123,11 +124,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Hheranca.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Gassociacao.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
   <component name="RunManager">
