@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RutimeExceptionTest01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RutimeExceptionTest02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RutimeExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RutimeExceptionTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +98,7 @@
     "Application.ProfessorTeste01.executor": "Run",
     "Application.RepositorioTest.executor": "Run",
     "Application.RuntimeExceptionTest03.executor": "Run",
+    "Application.RuntimeExceptionTest04.executor": "Run",
     "Application.RutimeExceptionTest01.executor": "Run",
     "Application.RutimeExceptionTest02.executor": "Run",
     "Application.SeminarioTest01.executor": "Run",
@@ -131,8 +127,8 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Hheranca.test" />
