@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/domain/Leitor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Oexception/exception/domain/Leitor2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,11 +128,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.domain" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Hheranca.test" />
     </key>
   </component>
   <component name="RunManager">
