@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.Oexception.runtime.test;
 
-public class RutimeExceptionTest02 {
+public class RuntimeExceptionTest02 {
     public static void main(String[] args) {
         try {
             System.out.println(divisao(1, 0));
