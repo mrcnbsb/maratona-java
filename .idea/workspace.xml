@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Rdates/test/DateFormatTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Rdates/test/LocaleTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Rdates/test/DateFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Rdates/test/LocaleTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocaleTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +97,7 @@
     "Application.LeituraDoTecladoTest01.executor": "Run",
     "Application.LeituraDoTecladoTest02.executor": "Run",
     "Application.LocaleTest01.executor": "Run",
+    "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
@@ -139,11 +144,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Qstring.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.domain" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.service" />
     </key>
   </component>
   <component name="RunManager">
