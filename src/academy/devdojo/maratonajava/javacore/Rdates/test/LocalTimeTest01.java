@@ -18,5 +18,6 @@ public class LocalTimeTest01 {
         System.out.println(LocalTime.MIDNIGHT);
         System.out.println(LocalTime.MIN);
         System.out.println(LocalTime.MAX);
+
     }
 }
