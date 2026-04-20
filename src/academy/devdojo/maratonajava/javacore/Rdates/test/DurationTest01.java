@@ -18,6 +18,7 @@ public class DurationTest01 {
         Duration d3 = Duration.between(Instant.now(), Instant.now().plusSeconds(1000));
         System.out.println(d3);
         Duration d4 = Duration.ofDays(20);
+        System.out.println(d4);
         System.out.println(d4.toDays());
     }
 }
