@@ -124,6 +124,7 @@
     "Application.StringPerformanceTest.executor": "Run",
     "Application.StringTest01.executor": "Run",
     "Application.StringTest02.executor": "Run",
+    "Application.TemporalAdjustersTest01.executor": "Run",
     "Application.TryWithResourcesTest01.executor": "Run",
     "Application.WrapperTest01.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
