@@ -106,6 +106,7 @@
     "Application.NumberFormatTest02.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.PatternMatcherTest01.executor": "Run",
+    "Application.PatternMatcherTest02.executor": "Run",
     "Application.PeriodTest01.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.PessoaTeste.executor": "Run",
@@ -156,11 +157,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Qstring.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.domain" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
     </key>
   </component>
   <component name="RunManager">
