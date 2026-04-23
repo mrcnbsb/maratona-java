@@ -107,6 +107,7 @@
     "Application.OlaDevDojo.executor": "Run",
     "Application.PatternMatcherTest01.executor": "Run",
     "Application.PatternMatcherTest02.executor": "Run",
+    "Application.PatternMatcherTest03.executor": "Run",
     "Application.PeriodTest01.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.PessoaTeste.executor": "Run",
