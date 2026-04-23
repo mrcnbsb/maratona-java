@@ -26,5 +26,6 @@ public class ZoneTest01 {
         ZoneOffset offsetManaus = ZoneOffset.of("-04:00");
         OffsetDateTime offsetDateTime =  now.atOffset(offsetManaus);
         System.out.println(offsetDateTime);
+
     }
 }
