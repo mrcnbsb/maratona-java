@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +123,8 @@
     "Application.RuntimeExceptionTest04.executor": "Run",
     "Application.RutimeExceptionTest01.executor": "Run",
     "Application.RutimeExceptionTest02.executor": "Run",
+    "Application.ScannerTest01.executor": "Run",
+    "Application.ScannerTest02.executor": "Debug",
     "Application.SeminarioTest01.executor": "Run",
     "Application.SimpleDateFormatTest01.executor": "Run",
     "Application.SobrescritaComExceptionTest01.executor": "Run",
@@ -210,5 +210,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Uregex/test/ScannerTest02.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
