@@ -88,6 +88,7 @@
     "Application.ExceptionTest01.executor": "Run",
     "Application.ExceptionTest02.executor": "Run",
     "Application.FileTest01.executor": "Run",
+    "Application.FileWriter01.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
     "Application.HerancaTest01.executor": "Run",
     "Application.HerancaTest02.executor": "Run",
