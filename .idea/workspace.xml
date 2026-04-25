@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Vio/test/FileWriter01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Vio/test/FileWriter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Vio/test/FileWriterTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +90,7 @@
     "Application.EstudanteTeste02.executor": "Run",
     "Application.ExceptionTest01.executor": "Run",
     "Application.ExceptionTest02.executor": "Run",
+    "Application.FileReaderTest01.executor": "Run",
     "Application.FileTest01.executor": "Run",
     "Application.FileWriter01.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
