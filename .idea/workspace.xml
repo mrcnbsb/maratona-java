@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/arquivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/home/william/dev/arquivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Wnio/test/NormalizeTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +117,7 @@
     "Application.OlaDevDojo.executor": "Run",
     "Application.PathTest01.executor": "Run",
     "Application.PathTest02.executor": "Run",
+    "Application.PathTest03.executor": "Run",
     "Application.PatternMatcherTest01.executor": "Run",
     "Application.PatternMatcherTest02.executor": "Run",
     "Application.PatternMatcherTest03.executor": "Run",
@@ -170,6 +173,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\home\william\dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="academy.devdojo.maratonajava.javacore.Wnio.test" />
