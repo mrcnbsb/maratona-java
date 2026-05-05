@@ -10,8 +10,14 @@ public class PathTest01 {
         Path p3 = Paths.get("C","Users\\55619\\Documents\\DevDojo\\maratona-java", "file.txt");
         Path p4 = Paths.get("C", "Users", "55619", "Documents", "DevDojo", "maratona-java", "file.txt");
         System.out.println(p1.getFileName());
+//        System.out.println(p1.getFileSystem());
+//        System.out.println(p1.getRoot());
+//        System.out.println(p1.getParent());
+//        System.out.println(p1.getClass());
+//        System.out.println("----------");
         System.out.println(p2.getFileName());
         System.out.println(p3.getFileName());
         System.out.println(p4.getFileName());
+
     }
 }
