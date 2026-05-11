@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/novo_path.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pasta/novo_path.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
     "Application.Aula08ArraysMultidimensionais01.executor": "Run",
     "Application.Aula08ArraysMultidimensionais02.executor": "Run",
     "Application.BasicFileAttributesTest01.executor": "Run",
+    "Application.BasicFileAttributesTest02.executor": "Run",
     "Application.BufferedReaderTest01.executor": "Run",
     "Application.BufferedWriterTest01.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
