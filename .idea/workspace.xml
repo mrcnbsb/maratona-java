@@ -89,6 +89,7 @@
     "Application.DateFormatTest01.executor": "Run",
     "Application.DateTest01.executor": "Run",
     "Application.DateTimeFormatterTest01.executor": "Run",
+    "Application.DirectoryStreamTest01.executor": "Run",
     "Application.DosFileAttributesTest01.executor": "Run",
     "Application.DurationTest01.executor": "Run",
     "Application.EscolaTest01.executor": "Run",
