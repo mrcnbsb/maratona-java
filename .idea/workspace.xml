@@ -125,6 +125,7 @@
     "Application.NumberFormatTest02.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.PathMatcherTest01.executor": "Run",
+    "Application.PathMatcherTest02.executor": "Run",
     "Application.PathTest01.executor": "Run",
     "Application.PathTest02.executor": "Run",
     "Application.PathTest03.executor": "Run",
