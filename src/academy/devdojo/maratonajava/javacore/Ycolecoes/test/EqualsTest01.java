@@ -14,11 +14,15 @@ public class EqualsTest01 {
         Smartphone s1 = new Smartphone("1ABC1", "iPhone");
         Smartphone s2 = new Smartphone("1ABC1", "iPhone");
 
-        //equals da classe object
-        System.out.println(s1.equals(s2)); // false -> objetos diferentes
+//        //equals da classe object
+//        System.out.println(s1.equals(s2)); // false -> objetos diferentes
 
-        s2 = s1;
-        System.out.println(s1.equals(s2)); // true -> mesmo objeto
+//        s2 = s1;
+//        System.out.println(s1.equals(s2)); // true -> mesmo objeto
+
+        //equals da classe Smartphone
+        System.out.println(s1.equals(s2)); // true -> serialNumber iguais
+
 
     }
 }
