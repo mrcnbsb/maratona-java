@@ -20,8 +20,11 @@ public class EqualsTest01 {
 //        s2 = s1;
 //        System.out.println(s1.equals(s2)); // true -> mesmo objeto
 
-        //equals da classe Smartphone
-        System.out.println(s1.equals(s2)); // true -> serialNumber iguais
+//        //equals da classe Smartphone
+//        System.out.println(s1.equals(s2)); // true -> serialNumber iguais
+
+        //hashCode
+        System.out.println(s1.hashCode() == s2.hashCode());
 
 
     }
