@@ -25,7 +25,5 @@ public class EqualsTest01 {
 
         //hashCode
         System.out.println(s1.hashCode() == s2.hashCode());
-
-
     }
 }

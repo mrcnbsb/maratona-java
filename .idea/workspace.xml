@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +116,7 @@
     "Application.JogadorTest03.executor": "Run",
     "Application.LeituraDoTecladoTest01.executor": "Run",
     "Application.LeituraDoTecladoTest02.executor": "Run",
+    "Application.ListTest01.executor": "Run",
     "Application.LocalDateTest01.executor": "Run",
     "Application.LocalDateTimeTest01.executor": "Run",
     "Application.LocalTimeTest01.executor": "Run",
