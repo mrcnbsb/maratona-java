@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Smartphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +115,7 @@
     "Application.JogadorTest03.executor": "Run",
     "Application.LeituraDoTecladoTest01.executor": "Run",
     "Application.LeituraDoTecladoTest02.executor": "Run",
+    "Application.ListSortTest01.executor": "Run",
     "Application.ListTest01.executor": "Run",
     "Application.LocalDateTest01.executor": "Run",
     "Application.LocalDateTimeTest01.executor": "Run",
@@ -124,6 +123,7 @@
     "Application.LocaleTest01.executor": "Run",
     "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
+    "Application.MangaSortTest01.executor": "Run",
     "Application.NormalizeTest01.executor": "Run",
     "Application.NumberFormatTest01.executor": "Run",
     "Application.NumberFormatTest02.executor": "Run",
