@@ -119,6 +119,7 @@
     "Application.LeituraDoTecladoTest02.executor": "Run",
     "Application.ListSortTest01.executor": "Run",
     "Application.ListTest01.executor": "Run",
+    "Application.ListaArrayConversaoTest01.executor": "Run",
     "Application.LocalDateTest01.executor": "Run",
     "Application.LocalDateTimeTest01.executor": "Run",
     "Application.LocalTimeTest01.executor": "Run",
@@ -205,11 +206,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\home\william\dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Wnio.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Qstring.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.domain" />
     </key>
   </component>
   <component name="RunManager">
