@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/domain/Manga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +161,7 @@
     "Application.ScannerTest02.executor": "Debug",
     "Application.SeminarioTest01.executor": "Run",
     "Application.SerializacaoTest01.executor": "Run",
+    "Application.SetTest01.executor": "Run",
     "Application.SimpleDateFormatTest01.executor": "Run",
     "Application.SimpleFileVisitorTest01.executor": "Run",
     "Application.SimpleFileVisitorTest02.executor": "Run",

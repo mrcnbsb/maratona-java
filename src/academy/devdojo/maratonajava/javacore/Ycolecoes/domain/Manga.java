@@ -24,12 +24,12 @@ public class Manga implements Comparable<Manga> {
     @Override
     public boolean equals(Object o) {
         if (!(o instanceof Manga manga)) return false;
-        return Double.compare(preco, manga.preco) == 0 && Objects.equals(id, manga.id) && Objects.equals(nome, manga.nome);
+        return Objects.equals(id, manga.id) && Objects.equals(nome, manga.nome);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, nome, preco);
+        return Objects.hash(id, nome);
     }
 
     @Override
