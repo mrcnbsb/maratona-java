@@ -130,6 +130,7 @@
     "Application.LocaleTest02.executor": "Run",
     "Application.LoginInvalidoExceptionTest01.executor": "Run",
     "Application.MangaSortTest01.executor": "Run",
+    "Application.MapTest01.executor": "Run",
     "Application.NavigableSetTest01.executor": "Run",
     "Application.NormalizeTest01.executor": "Run",
     "Application.NumberFormatTest01.executor": "Run",
