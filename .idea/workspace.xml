@@ -109,6 +109,7 @@
     "Application.FileWriter01.executor": "Run",
     "Application.FileWriterTest01.executor": "Run",
     "Application.FuncionarioTest01.executor": "Run",
+    "Application.GenericksTest01.executor": "Run",
     "Application.HerancaTest01.executor": "Run",
     "Application.HerancaTest02.executor": "Run",
     "Application.InstantTest01.executor": "Run",
