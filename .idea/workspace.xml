@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +184,7 @@
     "Application.TemporalAdjustersTest01.executor": "Run",
     "Application.TryWithResourcesTest01.executor": "Run",
     "Application.WildcardTest01.executor": "Run",
+    "Application.WildcardTest03.executor": "Run",
     "Application.WrapperTest01.executor": "Run",
     "Application.ZipOutPutStreamTest01.executor": "Run",
     "Application.ZoneTest01.executor": "Run",
@@ -221,11 +223,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\home\william\dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Wnio.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Qstring.test" />
     </key>
   </component>
   <component name="RunManager">
