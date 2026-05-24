@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="190" />
+    <option name="cachedIndexableFilesCount" value="205" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -154,6 +154,8 @@
     "Application.ProdutoTest02.executor": "Run",
     "Application.ProdutoTest03.executor": "Run",
     "Application.ProfessorTeste01.executor": "Run",
+    "Application.QueueTest01.executor": "Run",
+    "Application.QueueTest02.executor": "Run",
     "Application.RelativezeTest01.executor": "Run",
     "Application.RepositorioTest.executor": "Run",
     "Application.ResourceBundleTest01.executor": "Run",
