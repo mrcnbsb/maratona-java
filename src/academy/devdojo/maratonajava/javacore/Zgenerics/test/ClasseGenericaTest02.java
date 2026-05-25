@@ -11,3 +11,4 @@ public class ClasseGenericaTest02 {
         barcoRentalService.retornarBarcoAlugado(barco);
     }
 }
+
