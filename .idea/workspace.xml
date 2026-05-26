@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
   "keyToString": {
     "Application.AnimeTest.executor": "Run",
     "Application.AnimeTest01.executor": "Run",
+    "Application.AnonymousClassesTest01.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -205,7 +203,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/55619/Documents/DevDojo/maratona-java/src/academy/devdojo/maratonajava/javacore/Zgenerics/test",
+    "last_opened_file_path": "C:/Users/55619/Documents/DevDojo/maratona-java/src/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -221,11 +219,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\ZZAclassesinternas\test" />
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Zgenerics\test" />
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\pasta\subpasta1\subsubpasta1" />
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\pasta" />
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Wnio\test" />
-      <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\src\academy\devdojo\maratonajava\javacore\Dconstrutores" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\home\william\dev" />
