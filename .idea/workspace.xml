@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32d597e3-86aa-4230-a4e0-53bfd4b55233" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +146,7 @@
     "Application.NumberFormatTest02.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.OuterClassesTest01.executor": "Run",
+    "Application.OuterClassesTest02.executor": "Run",
     "Application.PathMatcherTest01.executor": "Run",
     "Application.PathMatcherTest02.executor": "Run",
     "Application.PathTest01.executor": "Run",
