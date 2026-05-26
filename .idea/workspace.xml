@@ -52,6 +52,7 @@
     "Application.AnimeTest.executor": "Run",
     "Application.AnimeTest01.executor": "Run",
     "Application.AnonymousClassesTest01.executor": "Run",
+    "Application.AnonymousClassesTest02.executor": "Run",
     "Application.Aula02TiposPrimitivos.executor": "Run",
     "Application.Aula03TiposPrimitivosExercicio.executor": "Run",
     "Application.Aula04Operadores.executor": "Run",
@@ -145,6 +146,7 @@
     "Application.OlaDevDojo.executor": "Run",
     "Application.OuterClassesTest01.executor": "Run",
     "Application.OuterClassesTest02.executor": "Run",
+    "Application.OuterClassesTest03.executor": "Run",
     "Application.PathMatcherTest01.executor": "Run",
     "Application.PathMatcherTest02.executor": "Run",
     "Application.PathTest01.executor": "Run",
@@ -229,11 +231,11 @@
       <recent name="C:\Users\55619\Documents\DevDojo\maratona-java\home\william\dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZAclassesinternas.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Wnio.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
     </key>
   </component>
   <component name="RunManager">
