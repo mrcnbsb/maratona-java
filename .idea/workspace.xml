@@ -92,6 +92,7 @@
     "Application.ClasseGenericaTest02.executor": "Run",
     "Application.ClasseGenericaTest03.executor": "Run",
     "Application.ClienteTest01.executor": "Run",
+    "Application.ComportamentoPorParametroTest01.executor": "Run",
     "Application.DataLoaderTest01.executor": "Run",
     "Application.DateFormatTest01.executor": "Run",
     "Application.DateTest01.executor": "Run",
